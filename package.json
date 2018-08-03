@@ -1,20 +1,24 @@
 {
-  "name": "Homework",
+  "name": "Bamazon",
   "version": "1.0.0",
-  "description": "",
-  "main": "bamazon.js",
+  "description": "Command prompt app utilizing MySQL, Node.JS, and Javascript",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzamora1/Bamazon.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cli": "^1.0.1",
-    "cli-table": "^0.3.1",
-    "console.table": "^0.10.0",
-    "my-sql": "^1.2.15",
-    "mysql": "^2.16.0",
-    "sli": "0.0.0"
-  }
+  "bugs": {
+    "url": "https://github.com/dzamora1/Bamazon/issues"
+  },
+  "homepage": "https://github.com/dzamora1/Bamazon#readme"
 }
