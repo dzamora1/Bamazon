@@ -24,4 +24,4 @@ However, if there is not enough of the product in stock, it will tell the user t
 If the purchase goes through, it updates the stock quantity to reflect the purchase.
 
 Demo
-[Bamazon Demo](https://drive.google.com/open?id=10hPpnqa2f1eSQeuHoHtv7lvC1nkAY5q4)
+[Bamazon Demo](https://drive.google.com/open?id=1POgnvO8LMaaZmKD-vQdoJJBEWV3yyVvj)
